@@ -1,0 +1,16 @@
+id: IE712D7B7
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:13:42.166710
+last_modified: 2023-02-08 16:13:42.166847
+source_metadata:
+  title: Suvarṇavarṇāvadāna
+  language: bo
+bases:
+  '7143':
+    base_file: 7143.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
